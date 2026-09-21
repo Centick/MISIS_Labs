@@ -8,16 +8,19 @@ namespace ConsoleApp1
 {
     internal class task25
     {
-        double m = double.Parse(Console.ReadLine());
-        double n = double.Parse(Console.ReadLine());
-        double i = 0;
-
-        while (m > n)
+        static void Main()
         {
-            m = m - n;
-            i++;
+            double m = double.Parse(Console.ReadLine());
+            double n = double.Parse(Console.ReadLine());
+            double i = 0;
+
+            while (m > n)
+            {
+                m = m - n;
+                i++;
+            }
+            Console.Write(i);
+            Console.Write(m);
         }
-        Console.Write(i);
-        Console.Write(m);
     }
 }

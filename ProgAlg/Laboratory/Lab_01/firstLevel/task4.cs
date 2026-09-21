@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class task4
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double x = double.Parse(Console.ReadLine());
             double s = 0;

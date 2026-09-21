@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class task8
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int f = 1;
             int s = 0;

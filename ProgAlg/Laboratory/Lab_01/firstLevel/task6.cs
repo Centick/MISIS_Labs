@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class task6
     {
-        static void Main(string[] args)
+        static void Main()
         {
             for (double x = -4; x <= 4; x += 0.5)
             {

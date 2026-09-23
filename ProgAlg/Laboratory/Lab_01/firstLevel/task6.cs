@@ -1,19 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace ConsoleApp1
 {
-    internal class task6
+    internal class Task1
     {
-        static void Main()
+        public static void Run()
         {
             for (double x = -4; x <= 4; x += 0.5)
             {
                 double y = 0.5 * x * x - 7 * x;
-                Console.WriteLine(x + y);
+                Console.WriteLine("f(" + x + "): " + y);
             }
         }
     }

@@ -1,14 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace ConsoleApp1
 {
-    internal class task8
+    internal class Task1
     {
-        static void Main()
+        public static void Run()
         {
             int f = 1;
             int s = 0;

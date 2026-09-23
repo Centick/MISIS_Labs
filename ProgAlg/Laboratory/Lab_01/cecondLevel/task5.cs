@@ -1,14 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace ConsoleApp1
 {
-    internal class task25
+    internal class Task1
     {
-        static void Main()
+        static void Run()
         {
             double m = double.Parse(Console.ReadLine());
             double n = double.Parse(Console.ReadLine());

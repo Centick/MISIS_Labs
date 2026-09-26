@@ -4,7 +4,7 @@ namespace ConsoleApp1
     {
         public static void Run()
         {
-            string[] values = Console.ReadLine().Split(' ').ToArray();
+            string[] values = Console.ReadLine().Split(' ');
             double a = double.Parse(values[0]);
             double b = double.Parse(values[1]);
             double c = double.Parse(values[2]);

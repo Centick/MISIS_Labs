@@ -4,8 +4,8 @@ namespace ConsoleApp1
     internal class Task3
     {
         public static void Run()
-            {         
-            string[] values = Console.ReadLine().Split(' ').ToArray();
+        {
+            string[] values = Console.ReadLine().Split(' ');
             double a = double.Parse(values[0]);
             double b = double.Parse(values[1]);
 

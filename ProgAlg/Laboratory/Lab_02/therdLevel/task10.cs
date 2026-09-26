@@ -1,13 +1,11 @@
 namespace ConsoleApp1
 {
-    static class Task2
+    internal class Task3
     {
         public static void Run()
         {
             Console.WriteLine("Для завершения ввода нажмите Enter");
-            int minSwimTime = 10_000_000;
-            int mMin = 0, mSec = 0, mMsec = 0;
-
+            int coutGoodStudents = 0;
             while (true)
             {
                 string input = Console.ReadLine();
@@ -15,23 +13,21 @@ namespace ConsoleApp1
                 {
                     break;
                 }
-                string[] values = input.Split(':');
 
-                int min = int.Parse(values[0]);
-                int sec = int.Parse(values[1]);
-                int msec = int.Parse(values[2]);
+                string[] grades = input.Split(' ');
 
+                int g1 = int.Parse(grades[0]);
+                int g2 = int.Parse(grades[1]);
+                int g3 = int.Parse(grades[2]);
+                int g4 = int.Parse(grades[3]);
 
-                int swimTime = min * 60 * 100 + sec * 100 + msec;
-                if (swimTime < minSwimTime)
+                if (g1 > 3 && g2 > 3 && g3 > 3 && g4 > 3)
                 {
-                    minSwimTime = swimTime;
-                    mMin = min;
-                    mSec = sec;
-                    mMsec = msec;
+                    coutGoodStudents++;
                 }
             }
-            Console.WriteLine($"{mMin}:{mSec}:{mMsec}");
+
+            Console.WriteLine(coutGoodStudents);
         }
     }
 }

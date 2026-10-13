@@ -1,0 +1,15 @@
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\bin\Debug\net10.0\firstLevel.exe
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\bin\Debug\net10.0\firstLevel.deps.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\bin\Debug\net10.0\firstLevel.runtimeconfig.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\bin\Debug\net10.0\firstLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\bin\Debug\net10.0\firstLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.AssemblyInfoInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.AssemblyInfo.cs
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.csproj.CoreCompileInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.sourcelink.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\refint\firstLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\firstLevel.genruntimeconfig.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\firstLevel\obj\Debug\net10.0\ref\firstLevel.dll

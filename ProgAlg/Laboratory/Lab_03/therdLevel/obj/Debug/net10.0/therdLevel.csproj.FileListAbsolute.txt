@@ -1,0 +1,15 @@
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.AssemblyInfoInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.AssemblyInfo.cs
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.csproj.CoreCompileInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.sourcelink.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\bin\Debug\net10.0\therdLevel.exe
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\bin\Debug\net10.0\therdLevel.deps.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\bin\Debug\net10.0\therdLevel.runtimeconfig.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\bin\Debug\net10.0\therdLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\bin\Debug\net10.0\therdLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\refint\therdLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\therdLevel.genruntimeconfig.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\therdLevel\obj\Debug\net10.0\ref\therdLevel.dll

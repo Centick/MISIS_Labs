@@ -1,0 +1,15 @@
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.AssemblyInfoInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.AssemblyInfo.cs
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.csproj.CoreCompileInputs.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.sourcelink.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\bin\Debug\net10.0\secondLevel.exe
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\bin\Debug\net10.0\secondLevel.deps.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\bin\Debug\net10.0\secondLevel.runtimeconfig.json
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\bin\Debug\net10.0\secondLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\bin\Debug\net10.0\secondLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\refint\secondLevel.dll
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.pdb
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\secondLevel.genruntimeconfig.cache
+D:\Projects\MISIS_Labs\ProgAlg\Laboratory\Lab_03\secondLevel\obj\Debug\net10.0\ref\secondLevel.dll

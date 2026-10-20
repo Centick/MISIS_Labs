@@ -19,6 +19,8 @@ namespace Lab_03_secondLevel
 
             array[index_min] = min_znach * 2;
             Console.WriteLine(string.Join(' ', array));
+
+            
         }
     }
 }

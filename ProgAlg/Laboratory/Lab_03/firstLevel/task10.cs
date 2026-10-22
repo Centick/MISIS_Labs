@@ -5,7 +5,7 @@ namespace Lab_03.firstLevel
         public static void Run()
         {
             double[] array = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
-            double  = double.Parse(Console.ReadLine());
+            double p = double.Parse(Console.ReadLine());
             double q = double.Parse(Console.ReadLine());
             int n = 0;
 

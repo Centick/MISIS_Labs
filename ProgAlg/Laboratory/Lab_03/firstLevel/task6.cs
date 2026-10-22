@@ -10,7 +10,8 @@ namespace Lab_03.firstLevel
             {
                 n += Math.Pow(double.Parse(array[i]), 2);
             }
-            Console.WriteLine($"{Math.Sqrt(n):F4}");
+            double res = Math.Sqrt(n);
+            Console.WriteLine($"{res:F4}");
         }
    }
 }

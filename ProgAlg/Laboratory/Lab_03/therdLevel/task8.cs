@@ -7,10 +7,11 @@ namespace Lab_03_therdLevel
             int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
             int temp;
+            int Length = array.Length;
             for (int i = 0; i < array.Length - 1; i++) 
             {
                 if (array[i] >= 0) continue;
-                for (int j = i + 1; j < array.Length; j++)
+                for (int j = i + 1; j < Length; j++)
                 {
                     if (array[j] < 0)
                     {

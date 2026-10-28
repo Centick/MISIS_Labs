@@ -4,10 +4,11 @@ namespace Lab_03_therdLevel
     {
         public static void Run()
         {
-            double[] array = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
+            double[] array = Console.ReadLine().Split(' ').Select(double.Parse);
             int maxx = 0;
             int count = 0;
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
             {
                 for (int j = i + 1; j < array.Length; j++)
                 {

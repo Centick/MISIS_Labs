@@ -8,7 +8,8 @@ namespace Lab_03.firstLevel
             double a = array.Sum() / array.Length;
             int n = 0;
 
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
                 if (array[i] > 0) n ++;
 
             Console.WriteLine(n);

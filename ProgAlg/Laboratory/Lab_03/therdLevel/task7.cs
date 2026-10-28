@@ -8,7 +8,8 @@ namespace Lab_03_therdLevel
             List<double> arrayCountMinus = new List<double>();
             List<double> arrayCountPlus = new List<double>();
 
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] < 0) arrayCountMinus.Add(array[i]);
                 else arrayCountPlus.Add(array[i]);

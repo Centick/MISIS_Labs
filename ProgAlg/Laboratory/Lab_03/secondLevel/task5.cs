@@ -16,8 +16,9 @@ namespace Lab_03_secondLevel
             
             double sred = array.Sum() / array.Length;
             
+            int Length = array.Length;
             // найдем индекс и значение минимального числа 
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] < max_znach)
                 {
@@ -28,7 +29,7 @@ namespace Lab_03_secondLevel
 
             
             // найдем индекс и значение максимального числа
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] > max_znach)
                 {

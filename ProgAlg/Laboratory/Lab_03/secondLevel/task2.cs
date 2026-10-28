@@ -10,7 +10,8 @@ namespace Lab_03_secondLevel
             int index_max = 0;
             double max_znach = 0;
 
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] > max_znach)
                 {

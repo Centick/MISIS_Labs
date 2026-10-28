@@ -8,8 +8,9 @@ namespace Lab_03.firstLevel
             double p = double.Parse(Console.ReadLine());
             double q = double.Parse(Console.ReadLine());
             int n = 0;
-
-            for (int i = 0; i < array.Length; i++)
+            
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
                 if (array[i] > p && array[i] < q)
                     n += 1;
 

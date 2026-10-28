@@ -11,7 +11,8 @@ namespace Lab_03_secondLevel
             double max_znach = Math.Pow(10, 9);
             double sred = array.Sum() / array.Length;
 
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] < max_znach)
                 {

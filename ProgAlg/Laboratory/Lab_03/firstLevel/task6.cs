@@ -6,7 +6,8 @@ namespace Lab_03.firstLevel
         {
             string[] array = Console.ReadLine().Split(' ');
             double n = 0;
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length; 
+            for (int i = 0; i < Length; i++)
             {
                 n += Math.Pow(double.Parse(array[i]), 2);
             }

@@ -8,7 +8,8 @@ namespace Lab_03_secondLevel
             int index_min = 0;
             double min_znach = Math.Pow(10, 9);
 
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
             {
                 if (array[i] < min_znach)
                 {

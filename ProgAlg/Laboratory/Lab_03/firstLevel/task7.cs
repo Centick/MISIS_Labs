@@ -6,8 +6,8 @@ namespace Lab_03.firstLevel
         {
             double[] array = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
             double sred = array.Sum() / array.Length;
-
-            for (int i = 0; i < array.Length; i++)
+            int Length = array.Length;
+            for (int i = 0; i < Length; i++)
                 if (array[i] > sred)
                     array[i] = 0;
 
